@@ -1,0 +1,122 @@
+{
+  "posts": [
+    {
+      "id": 123,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 222,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  },
+  "mahasiswa": [
+    {
+      "nama": "Markobah",
+      "id": 1,
+      "kelas": "4b",
+      "jenisKelamin": "Laki-laki",
+      "sertifikat": [
+        "Tarik Tambang"
+      ]
+    },
+    {
+      "nama": "Markonah",
+      "id": 2,
+      "kelas": "3A",
+      "jenisKelamin": "Perempuan",
+      "sertifikat": []
+    },
+    {
+      "nama": "Santi",
+      "id": 3,
+      "kelas": "3B",
+      "jenisKelamin": "Perempuan",
+      "sertifikat": [
+        "Mengaji",
+        "Lomba-lari"
+      ]
+    },
+    {
+      "nama": "cek",
+      "kelas": "123j",
+      "jenisKelamin": "jaja",
+      "sertifikat": [
+        "jajaj",
+        "juju"
+      ],
+      "id": 4
+    },
+    {
+      "nama": "Dilla",
+      "kelas": "3a",
+      "jenisKelamin": "Perempuan",
+      "sertifikat": [
+        "Ngaji",
+        "main-bola"
+      ],
+      "id": 5
+    },
+    {
+      "nama": "sdf",
+      "kelas": "12a",
+      "jenisKelamin": "qw",
+      "sertifikat": [
+        "jkd",
+        "djfkdf"
+      ],
+      "id": 6
+    },
+    {
+      "nama": "sdf",
+      "jenisKelamin": "Laki-laki",
+      "kelas": "3A",
+      "sertifikat": [
+        "kjhkj"
+      ],
+      "id": 7
+    },
+    {
+      "nama": "sdf",
+      "jenisKelamin": "Laki-laki",
+      "kelas": "3A",
+      "sertifikat": [
+        "berenang",
+        "main bola"
+      ],
+      "id": 8
+    },
+    {
+      "nama": "sdf",
+      "jenisKelamin": "Laki-laki",
+      "kelas": "3A",
+      "sertifikat": [
+        "kjhkj"
+      ],
+      "id": 9
+    },
+    {
+      "nama": "sdf",
+      "jenisKelamin": "Laki-laki",
+      "kelas": "3A",
+      "sertifikat": [
+        "kjhkj"
+      ],
+      "id": 10
+    },
+    {
+      "nama": "sdf",
+      "jenisKelamin": "Laki-laki",
+      "kelas": "3A",
+      "sertifikat": [
+        "kjhkj"
+      ],
+      "id": 12
+    }
+  ]
+}
