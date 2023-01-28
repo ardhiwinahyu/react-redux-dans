@@ -37,6 +37,8 @@ class ListMahasiswa extends Component {
 		}
 	}
 
+	//tes
+
 	componentWillUnmount() {
 		if (this.state.isData) {
 			alert("Anda akan meninggalkan halaman");
