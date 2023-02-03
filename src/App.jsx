@@ -6,6 +6,7 @@ import ListMahasiswa from "./ListMahasiswa";
 import TambahData from "./TambahData";
 import DetailData from "./DetailData";
 import EditData from "./EditData";
+import H1 from "./H1";
 
 export default class App extends Component {
 	constructor(props) {
@@ -30,7 +31,7 @@ export default class App extends Component {
 	render() {
 		return (
 			<div>
-				<h1>{`${this.hourCheck()} Ardhi`} </h1>
+				<H1 text={`${this.hourCheck()} Ardhi`} size="medium" />
 				<BrowserRouter>
 					<Routes>
 						<Route path="/" element={<ListMahasiswa />} />

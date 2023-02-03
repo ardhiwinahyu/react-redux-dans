@@ -49,3 +49,14 @@ a {
 	display: inline-block;
 	margin: 2px;
 }
+
+.h1-styled--small {
+	font-size: 1rem;
+}
+
+.h1-styled--medium {
+	font-size: 2rem;
+}
+.h1-styled--large {
+	font-size: 3rem;
+}
